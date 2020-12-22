@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'Jungle_Roar';
-  src: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/127738/Jungle_Roar_Bold.ttf') format('truetype');
+  font-family: 'Montserrat';
+  src: url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap') format('truetype');
 }
 
 h1, h2{
-  font-family: 'Jungle_Roar';
+  font-family: 'Montserrat';
 }
 
 .App {

@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import Home from '../assets/img/jolieavatar.svg';
-import webd from '../assets/img/interiordesign.svg';
-import webde from '../assets/img/snowglobe.svg';
+import Home from '../assets/img/home.svg';
+import webd from '../assets/img/web-dev.svg';
+import webde from '../assets/img/web-design.svg';
 import Sm from './Sm';
 import DevTool from './DevTool';
 import DesignTool from './DesignTool';

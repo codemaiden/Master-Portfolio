@@ -1,14 +1,14 @@
 const greeting = {
-    title: "Your Name",
-    logo_name: "Name",
-    email: "email id",
+    title: "Live 4 Love",
+    logo_name: "Live4Love",
+    email: "jolie@live4love.app",
     subTitle:
-    "I'm a student pursuing {Course} in {department} from {university}. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage. Apart from that I also love to guide and mentor newbies. I'm currently into Web Development and working on my MERN Website"
+    "Stop accepting mediocre from retail stores... and let me give what you deserve At Live 4 Love Custom Designs, it's all about creating a magical experience. We dare you to dream big. The only rule is you are not allowed to be scared of impossible. Challenges are welcome, and your imagination is what makes working together an experience you can't find anywhere else.    "
 };
 
 const BlogData = {
     // this show your dev.to blog in your Portfolio blog
-    show_Blog: true,  // if true it Show your DEV.to article in Blog Section, if false than Blog Section convert to skill Section.
+    show_Blog: false,  // if true it Show your DEV.to article in Blog Section, if false than Blog Section convert to skill Section.
     devto_username: "vimal"
 };
 
@@ -19,22 +19,22 @@ const socialMedia = [
     {
         icon: "facebook",
         fontawesome: "fab fa-facebook-square  fa-3x",
-        link: "Your facebook link"
+        link: "https://facebook.com/live4lovecustomdesigns"
     },
     {
         icon: "twitter",
         fontawesome: "fab fa-twitter fa-3x",
-        link: "Your twitter link"
+        link: "https://twitter.com/live4love"
     },
     {
         icon: "instagram",
         fontawesome: "fab fa-instagram fa-3x",
-        link: "Your instagram link"
+        link: "https://instagram.com/live4lovecustomdesigns"
     },
     {
         icon: "github",
         fontawesome: "fab fa-github fa-3x",
-        link: "Your github link"
+        link: "https://github.com/codemaiden"
     },
     {
         icon: "gitlab",
@@ -49,12 +49,12 @@ const socialMedia = [
     {
         icon: "linkedin",
         fontawesome: "fab fa-linkedin fa-3x",
-        link: "Your linkedin link"
+        link: "https://linkedin.com/in/live4love"
     },
     {
         icon: "mailto",
         fontawesome: "far fa-envelope fa-3x",
-        link: "mailto:Your mail"
+        link: "mailto:jolie@live4love.app"
     }
 
 ];
